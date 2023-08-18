@@ -1,3 +1,5 @@
 include:
   - project: 'katagena/templates'
-    file: 'ci/badges.yml'
+    file: 'ci/global.yml'
+  - project: 'katagena/templates'
+    file: 'ci/pages/my-badges.yml'
